@@ -1,6 +1,10 @@
 language: python
 python: "3.9"
+<<<<<<< HEAD
 install: 
 - pip3 install pytest
 - pip3 install flask
+=======
+install: pip3 install pytest
+>>>>>>> a311435c2c30c99e163d075f937f7b923fcfa85a
 script:  python3 -m pytest
