@@ -31,7 +31,7 @@ class Test_Flask_Views:
     @pytest.fixture
     def tstring3(self):
         return "fun"
-    #adding comment
+    #adding comment :)
 
     @pytest.fixture
     def roman(self):
