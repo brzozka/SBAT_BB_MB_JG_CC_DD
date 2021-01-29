@@ -1,3 +1,6 @@
 language: python
 python: "3.9"
-script: python3 -m pytest
+install: 
+- pip3 install pytest
+- pip3 install flask
+script:  python3 -m pytest
