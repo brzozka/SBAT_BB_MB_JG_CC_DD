@@ -1,6 +1,6 @@
 from .functionAss import *
 from flask import Flask
-#siema kto pl
+#Comment BB
 
 app = Flask(__name__)
 
