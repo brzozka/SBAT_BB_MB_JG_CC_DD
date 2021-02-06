@@ -1,6 +1,6 @@
 #Download Python-Alpine based image from DockerHub and use it
-FROM python:3.8.3-alpine
-MAINTAINER josejuanWSB jose.pena.gomez@wsb.wroclaw.pl
+FROM python:3.9-alpine
+MAINTAINER brzozka  brzozka108@gmail.com
 
 WORKDIR /app
 
